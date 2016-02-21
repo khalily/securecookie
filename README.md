@@ -4,7 +4,7 @@
 
 securecookie provide a go implementation of tornado (>=3.2) secure cookies.
 
-[![GoDoc](https://godoc.org/github.com/kahlily/securecookie?status.png)](http://godoc.org/github.com/khalily/securecookie)
+[![GoDoc](https://godoc.org/github.com/kahlily/securecookie?status.png)](http://godoc.org/github.com/khalily/securecookie) [![Build Status](https://travis-ci.org/khalily/securecookie.png?branch=master)](https://travis-ci.org/khalily/securecookie)
 
 
 ## Usage

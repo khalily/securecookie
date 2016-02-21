@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"strings"
-	"securecookie"
+	"github.com/khalily/securecookie"
 )
 
 var (
